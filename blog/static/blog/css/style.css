@@ -1,0 +1,21 @@
+body {
+   background-color: rgb(75, 74, 74); 
+}
+
+.jumbo-color {
+    background-color: rgb(83, 81, 81);
+    color: white;
+    margin-left: 80px
+    
+}
+
+.form-control,
+.form-control:focus{
+    background-color: rgb(177, 168, 168);
+}
+
+
+.text-white {
+    color: #fff!important;
+    padding-left: 80px;
+}
